@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on [dvanhtalk](https://github.com/dav1601/dav-chat)
 
+- 📫 How to reach me **davigithub16@gmail.com**
+
 - 🌱 I’m currently learning **Flutter , React**
 
 - 💬 Ask me about **laravel , vuejs , php and javascript**
-
-- 📫 How to reach me **davigithub16@gmail.com**
 
 - ⚡ Fun fact **I think I like learning new things**
 
