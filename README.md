@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [dvanhshop](https://github.com/dav1601/2niteshop)
 
-- 🤝 🔭 I’m currently working on [dvanhtalk](https://github.com/dav1601/dav-chat)
+- 🔭 I’m currently working on [dvanhtalk](https://github.com/dav1601/dav-chat)
 
 - 🌱 I’m currently learning **Flutter , React**
 
