@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **laravel , vuejs , php and javascript**
 
-- ⚡ Fun fact **I think I like learning new things**
+- ⚡ My energy: Obito , MCK , WRXDIE , HIEUTHUHAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
