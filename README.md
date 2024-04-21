@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm dvanh</h1>
 <h3 align="center">I am a fullstack developer . Love to learn and share Laravel and Vuejs stuffs in website development</h3>
 
-- 🔭 I’m currently working on [dvanhsound](https://github.com/dav1601/dvanhsound)
+- 🔭 I’m currently working on [dvanhsound](https://github.com/dav1601/dvanhsound) -> <a href="https://music.dvanhtalk.online" target="blank">music.dvanhtalk.online</a> 
 
-- 🔭 I’m currently working on [dvanhshop](https://github.com/dav1601/2niteshop)
+- 🔭 I’m currently working on [dvanhshop](https://github.com/dav1601/2niteshop)   -> <a href="https:/dvanhtalk.online" target="blank">dvanhtalk.online</a>
 
-- 🔭 I’m currently working on [dvanhtalk](https://github.com/dav1601/dav-chat)
+- 🔭 I’m currently working on [dvanhtalk](https://github.com/dav1601/dav-chat)    -> <a href="https://dvanhshop.com" target="blank">dvanhshop.com</a>
 
 - 📫 How to reach me **davigithub16@gmail.com**
 
