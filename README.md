@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **laravel , vuejs , php and javascript**
 
-- ⚡ My Energy: Obito , MCK , WRXDIE , HIEUTHUHAI**
+- ⚡ My Energy: OBITO , MCK , WRXDIE , HIEUTHUHAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
