@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **davigithub16@gmail.com**
 
-- 🌱 I’m currently learning **Flutter , React**
+- 🌱 I’m currently learning **Flutter , React ....**
 
 - 💬 Ask me about **laravel , vuejs , php and javascript**
 
